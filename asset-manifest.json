@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tientq.github.io/static/css/main.61823e46.chunk.css",
-    "main.js": "/tientq.github.io/static/js/main.d8a41b11.chunk.js",
-    "main.js.map": "/tientq.github.io/static/js/main.d8a41b11.chunk.js.map",
+    "main.js": "/tientq.github.io/static/js/main.86fbcc84.chunk.js",
+    "main.js.map": "/tientq.github.io/static/js/main.86fbcc84.chunk.js.map",
     "runtime-main.js": "/tientq.github.io/static/js/runtime-main.907a63ab.js",
     "runtime-main.js.map": "/tientq.github.io/static/js/runtime-main.907a63ab.js.map",
     "static/css/2.d2ca2446.chunk.css": "/tientq.github.io/static/css/2.d2ca2446.chunk.css",
-    "static/js/2.bfff5d66.chunk.js": "/tientq.github.io/static/js/2.bfff5d66.chunk.js",
-    "static/js/2.bfff5d66.chunk.js.map": "/tientq.github.io/static/js/2.bfff5d66.chunk.js.map",
+    "static/js/2.f05b489d.chunk.js": "/tientq.github.io/static/js/2.f05b489d.chunk.js",
+    "static/js/2.f05b489d.chunk.js.map": "/tientq.github.io/static/js/2.f05b489d.chunk.js.map",
     "index.html": "/tientq.github.io/index.html",
-    "precache-manifest.f0a79261d120db5c4f7b28f73a0adb4a.js": "/tientq.github.io/precache-manifest.f0a79261d120db5c4f7b28f73a0adb4a.js",
+    "precache-manifest.b0d51081ca9dbe9470b3b058b685af1c.js": "/tientq.github.io/precache-manifest.b0d51081ca9dbe9470b3b058b685af1c.js",
     "service-worker.js": "/tientq.github.io/service-worker.js",
     "static/css/2.d2ca2446.chunk.css.map": "/tientq.github.io/static/css/2.d2ca2446.chunk.css.map",
     "static/css/main.61823e46.chunk.css.map": "/tientq.github.io/static/css/main.61823e46.chunk.css.map",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.907a63ab.js",
     "static/css/2.d2ca2446.chunk.css",
-    "static/js/2.bfff5d66.chunk.js",
+    "static/js/2.f05b489d.chunk.js",
     "static/css/main.61823e46.chunk.css",
-    "static/js/main.d8a41b11.chunk.js"
+    "static/js/main.86fbcc84.chunk.js"
   ]
 }
