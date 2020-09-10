@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tientq.github.io/static/css/main.61823e46.chunk.css",
+    "main.js": "/tientq.github.io/static/js/main.d8a41b11.chunk.js",
+    "main.js.map": "/tientq.github.io/static/js/main.d8a41b11.chunk.js.map",
+    "runtime-main.js": "/tientq.github.io/static/js/runtime-main.907a63ab.js",
+    "runtime-main.js.map": "/tientq.github.io/static/js/runtime-main.907a63ab.js.map",
+    "static/css/2.d2ca2446.chunk.css": "/tientq.github.io/static/css/2.d2ca2446.chunk.css",
+    "static/js/2.bfff5d66.chunk.js": "/tientq.github.io/static/js/2.bfff5d66.chunk.js",
+    "static/js/2.bfff5d66.chunk.js.map": "/tientq.github.io/static/js/2.bfff5d66.chunk.js.map",
+    "index.html": "/tientq.github.io/index.html",
+    "precache-manifest.f0a79261d120db5c4f7b28f73a0adb4a.js": "/tientq.github.io/precache-manifest.f0a79261d120db5c4f7b28f73a0adb4a.js",
+    "service-worker.js": "/tientq.github.io/service-worker.js",
+    "static/css/2.d2ca2446.chunk.css.map": "/tientq.github.io/static/css/2.d2ca2446.chunk.css.map",
+    "static/css/main.61823e46.chunk.css.map": "/tientq.github.io/static/css/main.61823e46.chunk.css.map",
+    "static/media/cv.png": "/tientq.github.io/static/media/cv.5c653daa.png",
+    "static/media/cv1.png": "/tientq.github.io/static/media/cv1.54c8b12a.png",
+    "static/media/cv2.png": "/tientq.github.io/static/media/cv2.4c1cba5f.png",
+    "static/media/cv3.png": "/tientq.github.io/static/media/cv3.2da239b5.png",
+    "static/media/cv4.png": "/tientq.github.io/static/media/cv4.fdf35f0a.png",
+    "static/media/foad35.png": "/tientq.github.io/static/media/foad35.8f34d123.png",
+    "static/media/style.css": "/tientq.github.io/static/media/foad_logo.0a04cd22.jpg",
+    "static/media/git.svg": "/tientq.github.io/static/media/git.c31b5069.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907a63ab.js",
+    "static/css/2.d2ca2446.chunk.css",
+    "static/js/2.bfff5d66.chunk.js",
+    "static/css/main.61823e46.chunk.css",
+    "static/js/main.d8a41b11.chunk.js"
+  ]
+}
