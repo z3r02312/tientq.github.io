@@ -13,13 +13,13 @@ function Home_Right() {
   return (
     <Container className="home-right">
       <Row className="home-right-main">
-        <Col xl={12}>
+        {/* <Col xl={12}>
           <br />
           <Image src={Foad} className="home-right-main-img" alt="Image of Motasim Foad"/>
         </Col>
         <Row className="home-right-footer" >
           <SocialIcons />
-        </Row>
+        </Row> */}
       </Row>
     </Container>
   );

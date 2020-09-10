@@ -20,11 +20,11 @@ import {
            Hello! 
          </h1>
          <h2 className="second_line">
-           I am <strong>motasim foad</strong>
+           I am <strong>Tran Quang Tien</strong>
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Product & Project Manager || Software Engineer ... " //text=["Hello.", "World!"]
+           text="React Native Developer || Leader Team Frontend ... "
            className="typical"
            speed="100"
            eraseDelay="500000"
